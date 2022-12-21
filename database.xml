@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<emp_info>
+    <employee>
+        <first>Sachin </first>
+        <last>Tendulkar</last>
+        <age>18</age>
+    </employee>
+    <employee>
+        <first>Yuvraj </first>
+        <last>Singh</last>
+        <age>24</age>
+    </employee>
+    <employee>
+        <first>Yusuf </first>
+        <last>Pathan</last>
+        <age>45</age>
+    </employee>
+</emp_info>
